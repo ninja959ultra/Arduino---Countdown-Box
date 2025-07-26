@@ -37,9 +37,9 @@ The project uses the millis() function instead of delay() to measure the 5-secon
 
 
 # Pictures:
-![img1]()
-![img2]()
-![img3]()
+![img1](Arduino-project-countdown-box-PART1.jpeg)
+![img2](Arduino-project-countdown-box-PART2.jpeg)
+![img3](Arduino-project-countdown-box-PART3.jpeg)
 
 
 
